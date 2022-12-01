@@ -14,9 +14,10 @@ Britta needs your help to create an automated pipeline that takes in new data, p
  
  4: Create the Movie Database
  
- ![image](https://user-images.githubusercontent.com/105184244/205021873-614060eb-7b92-44ed-a67e-783cde716d96.png)
+ ![image](https://user-images.githubusercontent.com/105184244/205022200-3a51dd2d-110b-4264-b714-1b1f00a4cc46.png)
 
-![image](https://user-images.githubusercontent.com/105184244/205021959-38ddc0f6-20a2-4ea3-aa59-4052d2a209e1.png)
+![image](https://user-images.githubusercontent.com/105184244/205022452-a62d9080-4801-4594-bb1f-752d07a82d81.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/105184244/205022519-35fb3e03-80e1-4fc5-b19b-74306c6dd157.png)
+
  
