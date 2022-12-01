@@ -20,4 +20,5 @@ Britta needs your help to create an automated pipeline that takes in new data, p
 
  ![image](https://user-images.githubusercontent.com/105184244/205022519-35fb3e03-80e1-4fc5-b19b-74306c6dd157.png)
 
- 
+ ![image](https://user-images.githubusercontent.com/105184244/205022879-6ee4c5d7-87a7-4d31-a363-12aead6e247c.png)
+
